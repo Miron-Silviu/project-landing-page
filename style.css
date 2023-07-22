@@ -16,10 +16,10 @@ body {
     flex-direction: column;
     background-color: #1f2937;
 }
-.hero-head-nav-container {
+.head-nav {
     display: flex;
     justify-content: space-between;
-    padding: 5px 150px;
+    padding: 10px 150px;
 }
 #logo-txt {
     font-size: 24px;
@@ -42,6 +42,41 @@ a {
 }
 .hero-second-container {
     display: flex;
+    justify-content: space-between;
+    padding: 50px 150px;
+    gap: 100px;
+    padding-bottom: 100px;
+}
+
+#main-txt {
+    font-size: 48px;
+    font-weight: 700;
+    color: #f9faf8;
+    width: 7.5em;
+    padding: 1px;
+}
+#second-txt {
+    color: #e5e7eb;
+    font-size: 18px;
+    width: 50%;
+}
+.placeholder {
+    display: flex;
+    padding: 70px;
+    background-color: grey;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+}
+.sign-in-button {
+    background-color: #3882f6;
+    color: white;
+    padding: 8px;
+    width: 10%;
+    margin-top: 10px;
+    border-radius: 10px;
+    cursor: pointer;
 }
 /* Styling footer */
 .footer {
