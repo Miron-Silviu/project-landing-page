@@ -87,7 +87,7 @@ a {
     font-size: 36px;
     font-weight: 700;
     color: #1f2937;
-    padding: 30px;
+    padding: 40px;
 }
 
 .info-container {
@@ -109,6 +109,32 @@ a {
     text-align: center;
     padding-right: 7px;
     width: 100%;
+}
+
+/* Quote section */
+
+#quote-section {
+    background-color: #e5e7eb;
+    margin: 9em 0px 9em;
+    justify-content: center;
+    display: flex;
+}
+.quote-container {
+    max-width: 750px;
+}
+#quote-text {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    padding-top: 5em;
+    text-align: start;
+}
+#author {
+    display: flex;
+    justify-content: end;
+    font-weight: 700;
+    font-size: 25px;
+    padding-bottom: 5em;
 }
 /* Styling footer */
 .footer {
