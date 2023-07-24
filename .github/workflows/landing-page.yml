@@ -1,0 +1,17 @@
+name: project-landing-page
+
+on: push
+
+jobs:
+  landing-page:
+    name: landing code base
+    runs-on: windows
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Run project-landing-page
+        uses: github/project-landing-page@v4
+        env:
+          DEFAULT_BRANCH: main
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
