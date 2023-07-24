@@ -136,6 +136,34 @@ a {
     font-size: 25px;
     padding-bottom: 5em;
 }
+/* Call-to-action-section */
+
+.action-call {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #3882f6;
+    padding: 50px;
+    margin: 0px 550px 100px;
+    border-radius: 5px;
+    align-items: center;
+}
+
+#action-title {
+    color: white;
+    font-size: 18px;
+}
+#action-text {
+    color: rgb(212, 207, 207);
+    font-size: 12px;
+}
+#sign-up {
+    background-color: #3882f6;
+    padding: 3px 20px;
+    border-radius: 5px;
+    border: 2px solid white;
+    color: white;
+    cursor: pointer;
+}
 /* Styling footer */
 .footer {
     background-color: #1f2937;
