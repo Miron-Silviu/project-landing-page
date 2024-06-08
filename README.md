@@ -1,4 +1,3 @@
-![image](https://github.com/Miron-Silviu/project-landing-page/assets/119732322/8e12bc82-62ae-425f-b669-cd47f187a708)# Project-Landing-Page
 
 ## Table of contents
 
@@ -21,7 +20,7 @@ Users should be able to:
 
 # LINK
 
-[CLICK ME FOR LIVE VIEW ](https://miron-silviu.github.io/interactive-rating/)
+[CLICK ME FOR LIVE VIEW](https://miron-silviu.github.io/project-landing-page/)
 
 # Screenshot
 ![image](https://github.com/Miron-Silviu/project-landing-page/assets/119732322/c1e80c71-a17a-4116-b608-7598206d8997)
