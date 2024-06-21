@@ -20,7 +20,7 @@ Users should be able to:
 
 # LINK
 
-[CLICK ME FOR LIVE VIEW](https://miron-silviu.github.io/project-landing-page/)
+[VIEW DEMO](https://miron-silviu.github.io/project-landing-page/)
 
 # Screenshot
 ![image](https://github.com/Miron-Silviu/project-landing-page/assets/119732322/c1e80c71-a17a-4116-b608-7598206d8997)
